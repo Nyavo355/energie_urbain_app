@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+**/node_modules/
+
+# React build
+**/build/
+**/dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+
+# Environnement et secrets
+.env
+.env.*
+!.env.example
+
+# Cache
+.cache/
+
+# Logs
+*.log
